@@ -1,0 +1,38 @@
+{
+  "recentFiles": [
+    {
+      "basename": "archived project",
+      "path": "archive/archived project.md"
+    },
+    {
+      "basename": "project",
+      "path": "projects/project.md"
+    },
+    {
+      "basename": "files",
+      "path": "resources/assets/files/files.md"
+    },
+    {
+      "basename": "img",
+      "path": "resources/assets/img/img.md"
+    },
+    {
+      "basename": "30th Aug, 2022",
+      "path": "resources/daily-note/30th Aug, 2022.md"
+    },
+    {
+      "basename": "paper notes",
+      "path": "resources/literature/paper notes.md"
+    },
+    {
+      "basename": "daily",
+      "path": "resources/templates/daily.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "resources/open-loops/Welcome.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

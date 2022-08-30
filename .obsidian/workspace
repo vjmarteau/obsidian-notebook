@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "460ad8579a153f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46e0b0e6ce4c294",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "archive/archived project.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "545557e515ff5c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "698c95aa6e37da0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "786557088d23641c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "de4a4a60468db7f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54aec5d6fd0187d5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4827b9fce9961034",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5f96a452f68a782",
+    "type": "split",
+    "children": [
+      {
+        "id": "15a4e116bd9e0aef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a68529fab48664fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "archive/archived project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1baa71d6481f90a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "archive/archived project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b38a35664363126",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5cc51d8b4e1f7e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "archive/archived project.md"
+              }
+            }
+          },
+          {
+            "id": "75d4945800418aa4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bdf1fcd189ed559",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fafc24f926b46dc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d46e0b0e6ce4c294",
+  "lastOpenFiles": [
+    "projects/project.md",
+    "resources/assets/files/files.md",
+    "resources/assets/img/img.md",
+    "resources/daily-note/30th Aug, 2022.md",
+    "resources/daily-note/2022-08-30.md",
+    "resources/daily-note/Untitled.md",
+    "resources/literature/paper notes.md",
+    "resources/templates/daily.md",
+    "resources/open-loops/Welcome.md",
+    "resources/Untitled.md"
+  ]
+}
